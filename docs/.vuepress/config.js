@@ -15,8 +15,7 @@ module.exports = {
                   { text: 'Japanese', link: '/language/japanese/' }
                 ]
               }
-          ],
-          sidebar: 'auto'
+          ]
       },
     title: 'Hello VuePress',
     description: 'Just playing around'
